@@ -3,9 +3,9 @@
 
 
 "@angular-devkit/build-optimizer@^0.1101.0":
-  version "0.1101.0"
-  resolved "https://registry.yarnpkg.com/@angular-devkit/build-optimizer/-/build-optimizer-0.1101.0.tgz#92f949a4384105eccc87da8fcb2dd40590e48ab0"
-  integrity sha512-0hkb7fVBDOMBmLA0NC394PAAZmQ1xo12UeiDwfNN2LF9pYdASVj/OSCcZ3yEfnxzBZm5qeNLJG2c4l2xB5NFPQ==
+  version "0.1101.4"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/build-optimizer/-/build-optimizer-0.1101.4.tgz#f462eb90db8be775dc1302f0b4a444b1812fa76a"
+  integrity sha512-2IdpwftE4ERcfc4TynWVuZkSu5L7BHDgBVktNYjINheqo0zU0fw01Y6rn9R9lKzsn3ka4GWP2hwnA1T1WWGl9A==
   dependencies:
     loader-utils "2.0.0"
     source-map "0.7.3"
@@ -1927,10 +1927,10 @@
     "@types/minimatch" "*"
     "@types/node" "*"
 
-"@types/googlemaps@^3.43.0":
-  version "3.43.2"
-  resolved "https://registry.yarnpkg.com/@types/googlemaps/-/googlemaps-3.43.2.tgz#87db9460337c935de6d78f359d8135b4bda0c1cf"
-  integrity sha512-qiu5rms7+bgLciKAXpRsxVB1P+Z6gbSxuO8tZfdyQV2k5e5L/7GjUI6Z69rMR+7YFmqU9vwOUglLQ6NJyP/K8g==
+"@types/googlemaps@^3.43.1":
+  version "3.43.1"
+  resolved "https://registry.yarnpkg.com/@types/googlemaps/-/googlemaps-3.43.1.tgz#ce8ff7a6fb5db6fa4d46cfda00cc8144a9fbede3"
+  integrity sha512-0fLZrXDMx/spPbn0YVae0YVxwd2tAdWvA4RrjIy4s4k77DEGUJJYks7AAEW8fHGAoTwu0LmGvO3NsJAPjXRAJw==
 
 "@types/gulp@4.0.8":
   version "4.0.8"
