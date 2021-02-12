@@ -71,7 +71,7 @@
     "zone.js": "~0.11.3"
   },
   "devDependencies": {
-    "@angular-devkit/build-optimizer": "^0.1101.0",
+    "@angular-devkit/build-optimizer": "^0.1102.0",
     "@angular-devkit/core": "^11.1.0",
     "@angular-devkit/schematics": "^11.1.0",
     "@angular/bazel": "^11.1.0",
