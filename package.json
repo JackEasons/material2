@@ -138,7 +138,7 @@
     "@bazel/concatjs": "3.1.0",
     "@bazel/protractor": "3.1.0",
     "@bazel/rollup": "3.1.0",
-    "@bazel/terser": "3.1.0",
+    "@bazel/terser": "3.2.0",
     "@bazel/typescript": "3.1.0",
     "@firebase/app-types": "^0.6.1",
     "@octokit/rest": "18.1.0",
