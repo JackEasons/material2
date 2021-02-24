@@ -110,9 +110,9 @@
     tslib "^2.0.0"
 
 "@angular/core@^12.0.0-next.0":
-  version "12.0.0-next.0"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-12.0.0-next.0.tgz#f6916e7d7a744d5765441c9c4312c28d1cb152b5"
-  integrity sha512-7JqlX5rkOV4SvkIEUrL0aocU82AOO7SAH1N6SXRTT+zoOOBmiqHUbhwhY7kIvDJcBumiYVUvSapRT8mICPRx2Q==
+  version "12.0.0-next.2"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-12.0.0-next.2.tgz#d56e04248297d38115745fcb6be82181a0e08280"
+  integrity sha512-j+Kcu1Teo59FHyNVa+Yj0xMexilgnDlOxWbM7u0RGOBW2vWFzPJMSwr8qqK8u1FGR2ioj4BecGitqj4sDa2QsQ==
   dependencies:
     tslib "^2.0.0"
 
